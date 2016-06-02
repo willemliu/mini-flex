@@ -1,0 +1,23 @@
+{
+  "name": "mini-flex",
+  "description": "An easy and lightweight FlexBox grid system",
+  "main": "gulpfile.js",
+  "authors": [
+    "Willem Liu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "flexbox",
+    "grid",
+    "mini-flex",
+    "miniflex"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
