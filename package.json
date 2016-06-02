@@ -1,7 +1,7 @@
 {
   "name": "mini-flex",
   "version": "1.0.0",
-  "description": "An easy and lightweight flex box grid system",
+  "description": "An easy and lightweight FlexBox grid system",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {

@@ -1,6 +1,6 @@
 # Mini-Flex
 
-> An easy and lightweight flex box grid system.
+> An easy and lightweight FlexBox grid system.
 
 ## Including Mini-Flex
 
